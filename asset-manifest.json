@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/New-T20-Matches/static/css/main.491a7785.chunk.css",
+    "main.js": "/New-T20-Matches/static/js/main.70d88ac1.chunk.js",
+    "main.js.map": "/New-T20-Matches/static/js/main.70d88ac1.chunk.js.map",
+    "runtime-main.js": "/New-T20-Matches/static/js/runtime-main.a691aa8a.js",
+    "runtime-main.js.map": "/New-T20-Matches/static/js/runtime-main.a691aa8a.js.map",
+    "static/js/2.d4724d26.chunk.js": "/New-T20-Matches/static/js/2.d4724d26.chunk.js",
+    "static/js/2.d4724d26.chunk.js.map": "/New-T20-Matches/static/js/2.d4724d26.chunk.js.map",
+    "static/js/3.32f71f7a.chunk.js": "/New-T20-Matches/static/js/3.32f71f7a.chunk.js",
+    "static/js/3.32f71f7a.chunk.js.map": "/New-T20-Matches/static/js/3.32f71f7a.chunk.js.map",
+    "index.html": "/New-T20-Matches/index.html",
+    "static/css/main.491a7785.chunk.css.map": "/New-T20-Matches/static/css/main.491a7785.chunk.css.map",
+    "static/js/2.d4724d26.chunk.js.LICENSE.txt": "/New-T20-Matches/static/js/2.d4724d26.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/New-T20-Matches/static/media/back2.6c91d3d9.jpg",
+    "static/media/vs.7419083b.png": "/New-T20-Matches/static/media/vs.7419083b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a691aa8a.js",
+    "static/js/2.d4724d26.chunk.js",
+    "static/css/main.491a7785.chunk.css",
+    "static/js/main.70d88ac1.chunk.js"
+  ]
+}
